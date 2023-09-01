@@ -1,0 +1,34 @@
+.answers {
+    display: grid;
+    
+}
+.inpo {
+    justify-content: space-evenly;
+    display: flex;
+}
+.question {
+    display: block;
+    margin-top: 5%;
+    background: cadetblue;
+    height: 50px;
+    width: 86%;
+    margin-left: 7%;
+    border-radius: 10px
+}
+.ans {
+    margin-top: 16px;
+    background: darkcyan;
+    font-size: revert;
+}
+.points {
+    background: darkcyan;
+    margin-top: 4px;
+    width: 20%;
+    border-radius: 10px;
+}
+.index {
+    background: darkcyan;
+    margin-top: 4px;
+    width: 20%;
+    border-radius: 10px;
+}
