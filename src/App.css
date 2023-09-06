@@ -4,7 +4,7 @@
   width: 50%;
   margin: auto;
   
-  height: 300px;
+  height: fit-content;
   border-radius: 10px;
   margin-top: 3%;}
 
